@@ -1,0 +1,8 @@
+C:\Users\mhmad\source\repos\10_DifferentProjects\10_DifferentProjects\obj\Debug\netcoreapp3.1\10_DifferentProjects.csproj.AssemblyReference.cache
+C:\Users\mhmad\source\repos\10_DifferentProjects\10_DifferentProjects\obj\Debug\netcoreapp3.1\10_DifferentProjects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mhmad\source\repos\10_DifferentProjects\10_DifferentProjects\obj\Debug\netcoreapp3.1\10_DifferentProjects.AssemblyInfoInputs.cache
+C:\Users\mhmad\source\repos\10_DifferentProjects\10_DifferentProjects\obj\Debug\netcoreapp3.1\10_DifferentProjects.AssemblyInfo.cs
+C:\Users\mhmad\source\repos\10_DifferentProjects\10_DifferentProjects\obj\Debug\netcoreapp3.1\10_DifferentProjects.csproj.CoreCompileInputs.cache
+C:\Users\mhmad\source\repos\10_DifferentProjects\10_DifferentProjects\obj\Debug\netcoreapp3.1\10_DifferentProjects.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\mhmad\source\repos\10_DifferentProjects\10_DifferentProjects\obj\Debug\netcoreapp3.1\10_DifferentProjects.RazorAssemblyInfo.cache
+C:\Users\mhmad\source\repos\10_DifferentProjects\10_DifferentProjects\obj\Debug\netcoreapp3.1\10_DifferentProjects.RazorAssemblyInfo.cs
